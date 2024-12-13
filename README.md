@@ -1,2 +1,2 @@
 # Goldendex-Hub-lua-tpr
-Script by TPR Youtube : @Goldendex-Hub-lua
+Script by TPR Youtube : @Green-sps
